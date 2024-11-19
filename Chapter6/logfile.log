@@ -1,0 +1,6 @@
+[INFO] 2024-10-15 12:00:01 - Server started
+[ERROR] 2024-10-15 12:05:12 - Database connection failed
+[INFO] 2024-10-15 12:10:15 - User admin logged in
+[WARN] 2024-10-15 12:15:30 - Low disk space
+[ERROR] 2024-10-15 12:20:45 - Timeout while accessing external API
+

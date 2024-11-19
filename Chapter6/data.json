@@ -1,0 +1,15 @@
+{
+  "user": {
+    "name": "Alice",
+    "id": 12345,
+    "email": "alice@example.com"
+  },
+  "settings": {
+    "theme": "dark",
+    "notifications": true
+  },
+  "data": {
+    "payload": "SGVsbG8gd29ybGQ=",
+    "timestamp": "2024-10-21T12:34:56Z"
+  }
+}
